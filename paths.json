@@ -1,19 +1,19 @@
 {
     "mappings": [
-      "/content/citisignal-one/:/",
-      "/content/citisignal-one/configuration:/.helix/config.json",
-      "/content/citisignal-one/metadata:/metadata.json",
-      "/content/citisignal-one/configs:/configs.json",
-      "/content/citisignal-one/configs-stage:/configs-stage.json",
-      "/content/citisignal-one/configs-dev:/configs-dev.json",
-      "/content/citisignal-one/redirects:/redirects.json",
-      "/content/citisignal-one/placeholders:/placeholders.json",
-      "/content/citisignal-one/products/recommended-products:/products/recommended-products.json",
-      "/content/citisignal-one/enrichment/enrichment:/enrichment/enrichment.json",
+      "/content/adobeiberica-telco/:/",
+      "/content/adobeiberica-telco/configuration:/.helix/config.json",
+      "/content/adobeiberica-telco/metadata:/metadata.json",
+      "/content/adobeiberica-telco/configs:/configs.json",
+      "/content/adobeiberica-telco/configs-stage:/configs-stage.json",
+      "/content/adobeiberica-telco/configs-dev:/configs-dev.json",
+      "/content/adobeiberica-telco/redirects:/redirects.json",
+      "/content/adobeiberica-telco/placeholders:/placeholders.json",
+      "/content/adobeiberica-telco/products/recommended-products:/products/recommended-products.json",
+      "/content/adobeiberica-telco/enrichment/enrichment:/enrichment/enrichment.json",
       "/content/dam/citisignal/images/products/:/images/products/"
     ],
     "includes": [
-      "/content/citisignal-one",
+      "/content/adobeiberica-telco",
       "/content/dam/citisignal/images/products/"
     ]
 }
